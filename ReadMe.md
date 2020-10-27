@@ -1,3 +1,7 @@
+SUPPORT
+
+- If you have any questions regarding support please contact us via email at info@npws.app.
+
 PRIVACY POLICY
 
 This privacy policy governs your use of the software application  Field Manager (“Application”) for mobile devices that was created by Cormal Environmental. The Application is a field data collection app for the management of pests and weeds. 
